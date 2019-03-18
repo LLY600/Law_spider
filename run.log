@@ -1,0 +1,14 @@
+Wed, 06 Mar 2019 17:36:44 law_spider.py[line:44] INFO 当前爬取数据共1页
+Wed, 06 Mar 2019 17:36:45 law_spider.py[line:159] INFO 正在爬取URL链接:http://law.npc.gov.cn:80/FLFG/flfgByID.action?flfgID=37722630&zlsxid=01
+Wed, 06 Mar 2019 17:36:46 law_spider.py[line:133] INFO 保存本地成功
+Wed, 06 Mar 2019 17:36:46 law_spider.py[line:146] INFO 插入数据异常
+Wed, 06 Mar 2019 17:36:46 law_spider.py[line:159] INFO 正在爬取URL链接:http://law.npc.gov.cn:80/FLFG/flfgByID.action?flfgID=219820&zlsxid=04
+Wed, 06 Mar 2019 17:36:47 law_spider.py[line:133] INFO 保存本地成功
+Wed, 06 Mar 2019 17:36:47 law_spider.py[line:146] INFO 插入数据异常
+Thu, 07 Mar 2019 12:38:25 law_spider.py[line:44] INFO 当前爬取数据共1页
+Thu, 07 Mar 2019 12:38:25 law_spider.py[line:159] INFO 正在爬取URL链接:http://law.npc.gov.cn:80/FLFG/flfgByID.action?flfgID=37722630&zlsxid=01
+Thu, 07 Mar 2019 12:38:26 law_spider.py[line:133] INFO 保存本地成功
+Thu, 07 Mar 2019 12:38:26 law_spider.py[line:146] INFO 插入数据异常
+Thu, 07 Mar 2019 12:38:26 law_spider.py[line:159] INFO 正在爬取URL链接:http://law.npc.gov.cn:80/FLFG/flfgByID.action?flfgID=219820&zlsxid=04
+Thu, 07 Mar 2019 12:38:27 law_spider.py[line:133] INFO 保存本地成功
+Thu, 07 Mar 2019 12:38:27 law_spider.py[line:146] INFO 插入数据异常
